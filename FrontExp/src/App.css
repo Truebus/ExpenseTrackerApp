@@ -1,0 +1,17 @@
+#txt{
+    text-shadow: 2px 2px 3px yellow,0px 0px 4px orange;
+}
+
+#animate{
+    animation-name: move;
+    animation-duration: 5s;
+}
+
+@keyframes move{
+    from {
+        transform: translateY(-100%); 
+    }
+    to {
+        transform: translateY(0%); 
+    }
+}
