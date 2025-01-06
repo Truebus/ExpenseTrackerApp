@@ -37,3 +37,5 @@ Before running the app locally, you need to have the following installed:
 - npm (or yarn)
 - MongoDB (or use MongoDB Atlas for cloud database)
 
+  <img src="expense.png.docx"/>
+
